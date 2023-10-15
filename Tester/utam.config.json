@@ -1,0 +1,9 @@
+{
+    "module": "preview",
+    "pageObjectsRootDir": "/resources",
+    "pageObjectsFilesMask": "(.*)\\.utam\\.json$",
+    "pageObjectsOutputDir": "output",
+    "resourcesOutputDir": "/output",
+    "unitTestsOutputDir": "/output",
+    "unitTestsRunner": "NONE"
+}
