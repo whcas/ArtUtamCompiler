@@ -2,7 +2,7 @@
     "module": "preview",
     "pageObjectsRootDir": "/resources",
     "pageObjectsFilesMask": "(.*)\\.utam\\.json$",
-    "pageObjectsOutputDir": "output",
+    "pageObjectsOutputDir": "/output",
     "resourcesOutputDir": "/output",
     "unitTestsOutputDir": "/output",
     "unitTestsRunner": "NONE"
